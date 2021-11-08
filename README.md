@@ -1,5 +1,8 @@
 # Submission
 
+This is the submission for MDX 2021 Track A, for Track B go to the [track_b branch](https://github.com/adefossez/mdx21_demucs/tree/track_b).
+
+
 ## Submission Summary
 
 * Submission ID: 151378
