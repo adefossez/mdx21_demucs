@@ -1,22 +1,22 @@
 # Submission
 
-This is the submission for MDX 2021 Track A, for Track B go to the [track_b branch](https://github.com/adefossez/mdx21_demucs/tree/track_b).
+This is the submission for MDX 2021 Track B, for Track A go to the [main branch](https://github.com/adefossez/mdx21_demucs/tree/main).
 
 
 ## Submission Summary
 
-* Submission ID: 151378
+* Submission ID: 151895
 * Submitter: defossez
-* Final rank: 1th place on leaderboard A
+* Final rank: 2th place on leaderboard B
 * Final scores on MDXDB21:
 
   | SDR_song | SDR_bass | SDR_drums | SDR_other | SDR_vocals |
   | :---:    | :---:    | :---:     | :---:     | :---:      |
-  | 7.33     | 8.12     | 8.04      | 5.19      | 7.97       |
+  | 8.11     | 8.86     | 8.85      | 5.98      | 8.76       |
 
 ## Model Summary
 
-This model is a combination of 4 Demucs models: 2 hybrid and 2 regular. For more details,
+This model is a combination of 4 Hybrid Demucs models
 checkout the [Demucs Model Zoo](https://github.com/facebookresearch/demucs/blob/hybrid/docs/training.md#model-zoo).
 
 # Reproduction

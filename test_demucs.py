@@ -34,7 +34,7 @@ class DemucsPredictor(MusicDemixingPredictor):
         torch.hub.set_dir('./models/')
 
         # Use a pre-trained model
-        self.separator = pretrained.get_model(name='mdx')
+        self.separator = pretrained.get_model(name='mdx_extra')
         self.separator.eval()
 
     def prediction(
