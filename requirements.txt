@@ -9,4 +9,4 @@ SoundFile
 scipy
 norbert
 asteroid>=0.5.0
-git+https://git@github.com/facebookresearch/demucs@hybrid#egg=demucs
+demucs
